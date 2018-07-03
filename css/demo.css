@@ -1,0 +1,54 @@
+
+
+
+.contenter{
+	width: 350px;
+	height: 18px;
+	border: 1px solid white;
+	position: absolute;
+	top: 90px;
+	left: 290px;
+	background-color: pink;
+	line-height: 17px;
+	overflow: hidden;
+}
+.contenter li{
+	list-style-type: none;
+	font-size: 12px;
+	
+}
+.contenter a{
+	text-decoration: none;
+	color: 
+}
+.name{
+	color: #D30703;
+	margin: 0 5px;
+}
+.time{
+	color: #B2A5C2;
+	margin: 0 5px;
+}
+.content{
+	color: #000000;
+}
+.tri{
+	position: absolute;
+	top: -15px;
+	left: 340px; 
+}
+.tri1{
+	width: 0; 
+    height: 0; 
+    border-width: 0 5px 5px 5px; 
+    border-style: solid; 
+    border-color: #CA0309 transparent;
+}
+.tri2{ 
+    width: 0; 
+    height: 0; 
+    border-width: 5px 5px 0 5px; 
+    border-style: solid; 
+    border-color: #CA0309 transparent;
+    margin-top: -13px;
+}
